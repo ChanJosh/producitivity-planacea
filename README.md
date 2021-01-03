@@ -4,5 +4,5 @@ This is a productivity app. It includes a timer, to-do list, points system, and 
 This originated from an unfinished grade 12 project.
 
 ## To Do
-* Add a email system
+* Add a emailing system to allow accountability
 * Comment the files
