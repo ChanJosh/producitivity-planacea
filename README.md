@@ -5,4 +5,6 @@ This originated from an unfinished grade 12 project.
 
 ## To Do
 * Add a emailing system to allow accountability
-* Comment the files
+* Fix the timer functionality to add points
+* Fix the points to be able to update after a day is over
+* Add comments to the files
