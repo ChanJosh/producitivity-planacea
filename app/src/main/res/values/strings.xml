@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Productivity Planacea</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="label_username">Username:</string>
+    <string name="label_password">Password:</string>
+    <string name="label_login">Login</string>
+    <string name="label_create_account">Create New Account</string>
+    <string name="label_create">Create</string>
+    <string name="label_todotitle">To Do:</string>
+    <string name="label_delete_item">delete item</string>
+    <string name="label_timer">Timer</string>
+    <string name="label_set_timer">Set Timer</string>
+    <string name="file_shared">com.example.productivityplanacea.shared</string>
+    <string name="var_your_email">_youremail</string>
+    <string name="var_your_password">_yourpassword</string>
+    <string name="var_partner_email">_partneremail</string>
+    <string name="var_saved_thirty_streaks">_streak</string>
+    <string name="var_default_saved_thirty_streaks">_defaultstreak</string>
+    <string name="chart_title">Last 30 Days</string>
+    <string name="label_email">Email:</string>
+    <string name="label_settings">Settings</string>
+    <string name="button_set_your_email">Your Email</string>
+    <string name="button_set_partner_email">Accountability Email</string>
+</resources>
